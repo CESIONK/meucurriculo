@@ -1,0 +1,26 @@
+/* CSS Document*/
+*{ margin: 0;
+  padding:0 ;
+  webkit-box-sizing: border box;
+  webkit-appearance: none;
+  box-sizing: border;
+  
+  font-family: Times New Roman;
+}*
+body, html{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  width: 100%;
+  background: rgba;
+}
+h1{ 
+  font-size: 6vw;
+  font-weight: bold;
+  background: black ;
+  webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: texto 5s;
+}
